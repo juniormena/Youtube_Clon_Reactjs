@@ -1,0 +1,17 @@
+.grid{
+    justify-content:center;
+}
+
+.SearchBar{
+    padding: 25px;
+}
+
+.videoItem{
+    display:flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.imageItem{
+    margin-right: 20px;
+}
